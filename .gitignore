@@ -3,4 +3,11 @@ GAIA_stars.fits
 cenA_catalog.fits
 final_table.fits
 simbad_faraway_objects.fits
-
+SF_sources.fits
+UVIT_filter_colors.png
+age_distribution.png
+age_map.png
+nonSF_sources.fits
+sorted_inner_tbl.fits
+sorted_outer_tbl.fits
+with_attenuation_correction.png
