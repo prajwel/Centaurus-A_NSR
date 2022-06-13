@@ -4,7 +4,6 @@ channels:
 dependencies:
   - python
   - numpy
-  - pip
   - pandas
   - matplotlib
   - scipy
@@ -12,4 +11,4 @@ dependencies:
   - astroquery
   - photutils
   - dust_extinction
-
+  - ipympl
