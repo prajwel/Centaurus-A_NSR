@@ -1,0 +1,15 @@
+name: Centaurus-A_NSR
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip
+  - pandas
+  - matplotlib
+  - scipy
+  - astropy
+  - astroquery
+  - photutils
+  - dust_extinction
+
